@@ -1,0 +1,16 @@
+.button {
+    border: none;   
+    color: white ; 
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+}
+
+.submit{background-color: rgb(11, 150, 243); color:black}
+.next{background-color: antiquewhite;color:blue}
+.ok{background-color: green;}
+.cancel{background-color: red; color:white}

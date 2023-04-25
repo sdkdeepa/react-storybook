@@ -1,0 +1,29 @@
+.input {
+    background-color: white;
+    border: 1px solid;
+    border-color: inherit;
+    border-radius: .5rem;
+    display: block;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 250px;
+}
+
+.small {
+    background-color: aquamarine;
+    font-size: 10px;
+    height: 2rem;
+    
+}
+
+.medium {
+    background-color:aqua;
+    font-size: 20px;
+    height: 2.5rem;
+}
+
+.large {
+    background-color:rgb(130, 163, 224);
+    font-size: 50px;
+    height: 4rem;
+}
